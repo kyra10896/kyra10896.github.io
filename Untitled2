@@ -1,0 +1,16 @@
+function objKeyPrinter (Obj) {
+
+for (var pro in Obj) {
+console.log("k." + pro + "=" );
+
+}
+
+objValuePrinter loops through all the properties in a given object and returns a string of all the values that are strings.
+example input: { species: 'duck', tagline: 'Afflac', noises: ['quack', 'honk', 'sneeze', 'growl'] }
+example output: "duck Afflac"
+
+
+function objValuePrinter (Obj) {
+
+for (var 
+
